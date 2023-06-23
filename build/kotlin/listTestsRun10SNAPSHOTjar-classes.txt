@@ -1,0 +1,1 @@
+/Users/mntabunkov/IdeaProjects/listTestsRun/build/classes/kotlin/main/MainKt$addSymbols$result$1.class:/Users/mntabunkov/IdeaProjects/listTestsRun/build/classes/kotlin/main/MainKt$removeSymbols$result$3.class:/Users/mntabunkov/IdeaProjects/listTestsRun/build/classes/kotlin/main/MainKt.class
